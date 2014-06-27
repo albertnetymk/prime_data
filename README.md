@@ -20,9 +20,15 @@ to the input.
 `compare.txt` shows the comparison for all the output in one file, while
 `diff.txt` only captures the lines where output diverges.
 
-## Note This
+## Note
+
+This
 [PrimeNaive.java](https://github.com/fxpl/upscale/blob/master/casestudies/primesieve/cwi/abs-api-prime-sieves/src/PrimeNaive.java)
 (the implementation we are using to get `seq.txt`) is actually different from
 [PrimeNaive.java](https://github.com/fxpl/upscale/blob/master/casestudies/primesieve/cwi/abs-api-prime-sieves/src/main/java/abs/api/primesieves/PrimeNaive.java),
 even though a little. The latter one crashes for input `9`, so it's not used in
 this comparison.
+
+## Reference
+
+[Prime Counting Function](http://mathworld.wolfram.com/PrimeCountingFunction.html)
