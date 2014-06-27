@@ -12,6 +12,9 @@ to the input.
 `actor.txt` is obtained from
 [primesieves](https://github.com/fxpl/upscale/tree/master/casestudies/primesieve/cwi/abs-api-prime-sieves/src/main/java/abs/api/primesieves)
 
+`actor2.txt` and `actor2.txt` are similar to `actor.txt`, but use 2 and 4 actors
+(cores), respectively.
+
 ## Comparison
 
 `compare.txt` shows the comparison for all the output in one file, while
